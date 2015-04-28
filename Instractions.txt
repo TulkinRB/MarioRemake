@@ -1,0 +1,24 @@
+Instructions:
+	
+The goal of each fase of the game is to reach the flag in
+the end of the way, with as much points & coins in minimum time 
+Use the arrow keys to move Mario forward, backward, jump
+& shoot fireballs.
+If you touch a monster, fall into a pit or the time is
+up - you will loose one life.
+Jump on the monster in order to kill it.
+When you jump on Koopa (the turtle), it gets into it's shell,
+you can throw the shell on other mosters in order to kill it.
+If you jump under a "?" block, you will get a coin, or
+"Super mushroom", or "1up mushroom"
+If you eat "super mushroom", you will become "Super Mario"
+When you are "Super Mario", if you touch a monster, you
+will return to be "Mario".
+If you are "Super Mario" you will get a "fire flower", instead
+of "Super mushroom". If you eat it, you will become "Fire Mario".
+When you are "Fire Mario", you can shoot fireballs on monsters.
+If you eat "1up mushroom", you will get an extra life.
+Inside some of the blocks there are coins or starmen.
+If you collect a starman, you will get invinsible for a while,
+during that time if you touch a moster it will die.
+When you collect 100 coins, it automaticly buys you an extra life.
